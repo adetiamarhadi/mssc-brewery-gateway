@@ -10,7 +10,7 @@
 
 	<groupId>com.github.adetiamarhadi</groupId>
 	<artifactId>mssc-brewery-gateway</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 
 	<name>${project.groupId}:${project.artifactId}</name>
 	<description>MSSC Brewery Gateway</description>
@@ -36,7 +36,7 @@
 		<connection>scm:git:git://github.com/adetiamarhadi/mssc-brewery-gateway.git</connection>
 		<developerConnection>scm:git:git://github.com:adetiamarhadi/mssc-brewery-gateway.git</developerConnection>
 		<url>https://github.com/adetiamarhadi/mssc-brewery-gateway/tree/master</url>
-	  <tag>mssc-brewery-gateway-0.0.1</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<distributionManagement>
